@@ -1,0 +1,21 @@
+# Android Studio / IDE
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# Gradle
+.gradle/
+build/
+captures/
+
+# Yerel Ayarlar
+local.properties
+
+# Loglar ve Geçici Dosyalar
+*.log
+.DS_Store
+
+# Android Test & Profiler
+.externalNativeBuild/
+.cxx/
