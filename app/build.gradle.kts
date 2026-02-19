@@ -10,7 +10,7 @@ plugins {
 }
 
 android {
-    namespace = "com.azizzade.travelreservation"
+    namespace = "com.mobil.travelreservation"
 //    compileSdk {
 //        version = release(36)
 //    }
@@ -28,7 +28,7 @@ android {
     }
 
     defaultConfig {
-        applicationId = "com.azizzade.travelreservation"
+        applicationId = "com.mobil.travelreservation"
         minSdk = 24
         targetSdk = 36
         versionCode = 1

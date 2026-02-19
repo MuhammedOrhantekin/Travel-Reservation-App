@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
-    package="com.azizzade.travelreservation"> <application
+    package="com.mobil.travelreservation"> <application
     android:allowBackup="true"
     android:dataExtractionRules="@xml/data_extraction_rules"
     android:fullBackupContent="@xml/backup_rules"
@@ -12,7 +12,7 @@
     android:theme="@style/Theme.TravelReservation">
 
     <activity
-        android:name=".MainActivity"
+        android:name="com.mobil.travelreservation.MainActivity"
         android:exported="true"
         android:label="@string/app_name"
         android:theme="@style/Theme.TravelReservation">

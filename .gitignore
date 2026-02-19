@@ -1,21 +1,15 @@
-# Android Studio / IDE
-.idea/
 *.iml
-*.ipr
-*.iws
-
-# Gradle
-.gradle/
-build/
-captures/
-
-# Yerel Ayarlar
-local.properties
-
-# Loglar ve Geçici Dosyalar
-*.log
+.gradle
+/local.properties
+/.idea/caches
+/.idea/libraries
+/.idea/modules.xml
+/.idea/workspace.xml
+/.idea/navEditor.xml
+/.idea/assetWizardSettings.xml
 .DS_Store
-
-# Android Test & Profiler
-.externalNativeBuild/
-.cxx/
+/build
+/captures
+.externalNativeBuild
+.cxx
+local.properties
